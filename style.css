@@ -33,6 +33,15 @@ nav {
 	margin: 0 10px;
 }
 
+.nav-links>ul>li>a{
+	font-size: medium;
+	text-decoration:none;
+	color:white;
+	background-color:black;
+	padding:3%;
+	border-radius: 5px;
+}
+
 .nav-links a {
 	color: #333;
 	text-decoration: none;
