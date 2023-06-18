@@ -3,6 +3,9 @@ body{
 	padding: 0%;
 	display: inline;
 }
+*{
+	font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 
 /* Navigation Bar */
 nav {
@@ -85,6 +88,7 @@ main{
 }
 .welcome>a{
 	text-decoration: none;
+	font-style: italic;
 	color: black;
 }
 
